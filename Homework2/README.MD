@@ -1,1 +1,1 @@
-# USC CSCI 561 Homework 1: Agent
+# USC CSCI 561 Homework 2: Agent
