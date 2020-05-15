@@ -1,0 +1,5 @@
+enum GameType
+{
+    SINGLE,
+    GAME
+}
